@@ -1,0 +1,619 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aG" = (
+/obj/structure/closet/crate,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/turf/open/floor/plating,
+/area/ship/storage)
+"aS" = (
+/obj/item/circuitboard/machine/bluespace_miner,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/machinery/power/rtg,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"bj" = (
+/mob/living/simple_animal/mouse/white,
+/turf/open/floor/plating,
+/area/ship/storage)
+"bK" = (
+/obj/effect/decal/cleanable/blood/drip,
+/turf/open/floor/plating,
+/area/ship/storage)
+"cw" = (
+/obj/machinery/cryopod{
+	close_state = "crate";
+	dir = 8;
+	icon = 'goon/icons/obj/crates.dmi';
+	icon_state = "crateopen";
+	open_state = "crateopen"
+	},
+/obj/item/kitchen/knife,
+/obj/item/gun/ballistic/automatic/pistol/disposable,
+/obj/item/gun/ballistic/automatic/pistol/disposable,
+/turf/open/floor/plating,
+/area/ship/storage)
+"dj" = (
+/obj/structure/frame/machine,
+/turf/open/floor/plating,
+/area/ship/storage)
+"dC" = (
+/obj/machinery/power/apc/unlocked,
+/turf/closed/wall,
+/area/ship/storage)
+"dY" = (
+/obj/structure/sign/poster/contraband/missing_gloves,
+/turf/closed/wall,
+/area/ship/storage)
+"eb" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 3
+	},
+/turf/closed/wall,
+/area/ship/storage)
+"el" = (
+/obj/machinery/computer/helm,
+/turf/closed/wall,
+/area/ship/storage)
+"eA" = (
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/item/solar_assembly,
+/obj/structure/closet/crate/solarpanel_small,
+/obj/item/circuitboard/computer/solar_control,
+/obj/item/electronics/tracker,
+/turf/open/floor/plating,
+/area/ship/storage)
+"fB" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 3
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"fF" = (
+/obj/machinery/computer/cryopod,
+/turf/closed/wall,
+/area/ship/storage)
+"gz" = (
+/obj/machinery/power/port_gen/pacman/diamond,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"hN" = (
+/obj/effect/decal/cleanable/blood/old,
+/mob/living/simple_animal/mouse/gray,
+/obj/effect/mob_spawn/human/corpse/assistant,
+/obj/item/bedsheet/random,
+/obj/effect/decal/cleanable/blood/gibs,
+/turf/open/floor/plating,
+/area/ship/storage)
+"hZ" = (
+/obj/machinery/holopad,
+/turf/open/floor/plating,
+/area/ship/storage)
+"jO" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"jT" = (
+/obj/item/gun/ballistic/automatic/pistol/disposable,
+/obj/item/ammo_casing/caseless,
+/turf/open/floor/plating,
+/area/ship/storage)
+"kv" = (
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"lZ" = (
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/plating,
+/area/ship/storage)
+"md" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 6
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"mp" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/obj/item/tank/internals/oxygen,
+/turf/open/floor/plating,
+/area/ship/storage)
+"mQ" = (
+/obj/item/wrench,
+/obj/item/trash/can/food/beans,
+/turf/open/floor/plating,
+/area/ship/storage)
+"nd" = (
+/obj/effect/spawner/lootdrop/prison_contraband,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/turf/open/floor/plating,
+/area/ship/storage)
+"nk" = (
+/obj/structure/closet/crate/rcd,
+/obj/item/pipe_dispenser,
+/obj/item/areaeditor/blueprints,
+/obj/item/areaeditor/blueprints,
+/obj/item/areaeditor/blueprints,
+/obj/item/areaeditor/blueprints,
+/obj/item/construction/rcd,
+/obj/item/construction/plumbing,
+/obj/item/construction/rld/mini,
+/turf/open/floor/plating,
+/area/ship/storage)
+"oK" = (
+/turf/open/floor/plating,
+/area/ship/storage)
+"pf" = (
+/obj/machinery/washing_machine,
+/turf/open/floor/plating,
+/area/ship/storage)
+"rZ" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plating,
+/area/ship/storage)
+"sn" = (
+/obj/machinery/autolathe/hacked,
+/turf/open/floor/plating,
+/area/ship/storage)
+"sV" = (
+/obj/item/radio/intercom/wideband,
+/turf/closed/wall,
+/area/ship/storage)
+"uc" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/spawner/lootdrop/maintenance/eight,
+/obj/structure/closet/crate,
+/turf/open/floor/plating,
+/area/ship/storage)
+"vv" = (
+/obj/structure/fans/tiny,
+/obj/machinery/door/airlock/public,
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/plating,
+/area/ship/storage)
+"vR" = (
+/obj/item/disk/design_disk/disposable_gun,
+/turf/open/floor/plating,
+/area/ship/storage)
+"vW" = (
+/obj/item/gibtonite,
+/obj/machinery/camera,
+/turf/open/floor/plating,
+/area/ship/storage)
+"xz" = (
+/obj/item/ammo_casing/caseless{
+	dir = 4
+	},
+/obj/structure/closet/crate/engineering,
+/obj/item/circuitboard/machine/shuttle/engine/electric,
+/obj/item/circuitboard/machine/ore_silo,
+/obj/item/circuitboard/computer/operating,
+/obj/item/storage/box/stockparts/t3,
+/obj/item/storage/box/stockparts/t3,
+/obj/item/circuitboard/computer/cargo/express,
+/obj/item/circuitboard/computer/selling_pad_control,
+/obj/item/circuitboard/machine/selling_pad,
+/obj/item/stack/cable_coil/yellow,
+/obj/item/bluespace_parts/miningcore_shell,
+/turf/open/floor/plating,
+/area/ship/storage)
+"xE" = (
+/obj/item/flashlight/lantern,
+/obj/item/flashlight/lantern,
+/obj/item/flashlight/lantern,
+/obj/item/flashlight/lantern,
+/obj/item/flashlight/lantern,
+/obj/item/flashlight/lantern,
+/obj/structure/closet/crate/wooden,
+/obj/item/shovel/spoon,
+/obj/item/shovel/spoon,
+/obj/item/shovel/spoon,
+/obj/item/mining_scanner,
+/obj/item/mining_scanner,
+/obj/item/mining_scanner,
+/turf/open/floor/plating,
+/area/ship/storage)
+"xP" = (
+/obj/item/flashlight/lantern,
+/turf/open/floor/plating,
+/area/ship/storage)
+"zh" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/mob_spawn/human/doctor,
+/turf/open/floor/plating,
+/area/ship/storage)
+"zL" = (
+/obj/item/reagent_containers/food/drinks/beer,
+/turf/open/floor/plating,
+/area/ship/storage)
+"At" = (
+/obj/structure/closet/crate,
+/obj/item/stack/cable_coil/red,
+/obj/item/stack/sheet/mineral/diamond/twenty,
+/obj/item/stack/sheet/mineral/gold/twenty,
+/obj/item/stack/sheet/mineral/plasma/twenty,
+/obj/item/stack/sheet/mineral/uranium/twenty,
+/obj/item/stack/sheet/mineral/silver/fifty,
+/obj/item/stack/sheet/bluespace_crystal/five,
+/obj/item/stack/sheet/mineral/wood/fifty,
+/obj/item/stack/sheet/mineral/titanium/twenty,
+/obj/item/stack/tile/carpet/black/fifty,
+/obj/item/stack/tile/carpet/blue/fifty,
+/obj/item/stack/tile/carpet/cyan/fifty,
+/obj/item/stack/tile/carpet/green/fifty,
+/obj/item/stack/tile/carpet/orange/fifty,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Bt" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/mob_spawn/human/engineer,
+/obj/item/ammo_casing/caseless,
+/obj/effect/decal/cleanable/blood/gibs,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Dv" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 3
+	},
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/plating,
+/area/ship/storage)
+"DA" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"DT" = (
+/obj/machinery/power/smes/engineering,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"Ed" = (
+/obj/machinery/chem_dispenser,
+/obj/effect/decal/cleanable/greenglow,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Et" = (
+/obj/item/storage/backpack/duffelbag/med/surgery,
+/obj/structure/closet/crate/medical,
+/obj/item/storage/belt/medical,
+/obj/item/storage/firstaid/brute,
+/obj/item/storage/firstaid/fire,
+/obj/item/storage/firstaid/medical,
+/obj/item/storage/firstaid/toxin,
+/obj/item/storage/firstaid/o2,
+/obj/machinery/camera{
+	dir = 10
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"EM" = (
+/mob/living/simple_animal/hostile/rat,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Fx" = (
+/obj/structure/closet/crate,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/turf/open/floor/plating,
+/area/ship/storage)
+"FH" = (
+/obj/structure/closet/crate,
+/obj/item/tank/internals/oxygen,
+/obj/item/tank/internals/oxygen/red,
+/obj/item/tank/internals/oxygen/yellow,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Hc" = (
+/obj/structure/frame/computer,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Hu" = (
+/obj/item/reagent_containers/food/snacks/burger/rat,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Ig" = (
+/obj/structure/closet/crate,
+/obj/item/reagent_containers/food/snacks/badrecipe,
+/obj/item/reagent_containers/food/snacks/badrecipe,
+/obj/item/reagent_containers/food/drinks/waterbottle/large/empty,
+/obj/item/reagent_containers/food/drinks/waterbottle/large/empty,
+/obj/item/reagent_containers/food/drinks/waterbottle/large,
+/obj/item/reagent_containers/food/drinks/waterbottle/large,
+/obj/item/reagent_containers/food/snacks/breadslice/moldy,
+/obj/item/reagent_containers/food/snacks/breadslice/moldy,
+/obj/item/trash/can/food/beans,
+/obj/item/trash/can/food/beans,
+/obj/item/organ/cyberimp/chest/nutriment,
+/obj/item/kitchen/knife,
+/obj/item/reagent_containers/food/snacks/breadslice/moldy,
+/obj/item/reagent_containers/food/snacks/breadslice/moldy,
+/obj/item/reagent_containers/food/snacks/breadslice/moldy,
+/turf/open/floor/plating,
+/area/ship/storage)
+"KP" = (
+/obj/structure/reagent_dispensers/fueltank,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Nx" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/ship/storage)
+"NQ" = (
+/obj/item/trash/can/food/beans,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Ot" = (
+/obj/structure/frame,
+/turf/open/floor/plating,
+/area/ship/storage)
+"PT" = (
+/obj/machinery/smoke_machine,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Qu" = (
+/obj/effect/spawner/lootdrop/prison_contraband,
+/obj/item/clothing/suit/space/hardsuit/mining,
+/obj/item/clothing/suit/space/hardsuit/medical,
+/obj/item/clothing/suit/space/hardsuit/engine/atmos,
+/obj/item/clothing/suit/space/hardsuit/security,
+/obj/item/clothing/suit/space/hardsuit/engine,
+/obj/item/storage/toolbox/mechanical/old,
+/obj/item/multitool/old,
+/obj/structure/closet/crate/eva,
+/turf/open/floor/plating,
+/area/ship/storage)
+"RZ" = (
+/obj/structure/closet/crate/radiation,
+/obj/item/stack/sheet/mineral/diamond/fifty,
+/obj/item/stack/sheet/mineral/diamond/fifty,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Tx" = (
+/mob/living/simple_animal/mouse/brown/Tom,
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Wt" = (
+/obj/effect/mob_spawn/human/miner/old,
+/obj/item/cautery/alien,
+/obj/effect/decal/cleanable/vomit/old,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Xf" = (
+/obj/item/banner/engineering/mundane,
+/turf/open/floor/plating,
+/area/ship/storage)
+"XP" = (
+/obj/structure/closet/crate/hydroponics,
+/obj/item/seeds/watermelon,
+/obj/item/seeds/pumpkin,
+/obj/item/seeds/potato,
+/obj/item/seeds/grape,
+/obj/item/seeds/ambrosia,
+/obj/item/seeds/tower,
+/obj/item/seeds/reishi,
+/obj/item/seeds/cannabis,
+/obj/item/seeds/glowshroom,
+/obj/item/seeds/glowshroom/glowcap,
+/obj/item/reagent_containers/glass/bucket,
+/obj/item/cultivator/rake,
+/turf/open/floor/plating,
+/area/ship/storage)
+"XY" = (
+/obj/structure/fans/tiny,
+/obj/machinery/door/airlock/public,
+/turf/open/floor/plating,
+/area/ship/storage)
+"Yg" = (
+/turf/closed/wall,
+/area/ship/storage)
+"YH" = (
+/obj/machinery/portable_atmospherics/canister/nitrogen,
+/turf/open/floor/plating,
+/area/ship/storage)
+"ZM" = (
+/obj/item/card/id/captains_spare,
+/turf/open/floor/plating,
+/area/ship/storage)
+
+(1,1,1) = {"
+Yg
+Yg
+Yg
+Yg
+Yg
+dC
+Yg
+Yg
+Yg
+fF
+Yg
+"}
+(2,1,1) = {"
+Yg
+XP
+oK
+oK
+kv
+jO
+oK
+xE
+Ig
+cw
+Yg
+"}
+(3,1,1) = {"
+dY
+nk
+xz
+oK
+KP
+DT
+nd
+oK
+oK
+oK
+sV
+"}
+(4,1,1) = {"
+Yg
+uc
+At
+zh
+Tx
+aS
+zL
+mQ
+Fx
+aG
+Yg
+"}
+(5,1,1) = {"
+Yg
+oK
+mp
+DA
+PT
+gz
+Hu
+Wt
+RZ
+FH
+Yg
+"}
+(6,1,1) = {"
+vv
+Dv
+fB
+md
+Et
+el
+vW
+lZ
+hZ
+oK
+XY
+"}
+(7,1,1) = {"
+Yg
+oK
+YH
+oK
+oK
+Nx
+oK
+oK
+oK
+pf
+Yg
+"}
+(8,1,1) = {"
+Yg
+NQ
+Qu
+bK
+Ed
+xP
+Hc
+dj
+EM
+Ot
+Yg
+"}
+(9,1,1) = {"
+el
+Bt
+jT
+bj
+oK
+oK
+oK
+ZM
+hN
+NQ
+sV
+"}
+(10,1,1) = {"
+Yg
+Xf
+eA
+rZ
+vR
+sn
+oK
+dj
+Ot
+dj
+Yg
+"}
+(11,1,1) = {"
+Yg
+Yg
+eb
+Yg
+Yg
+Yg
+Yg
+Yg
+Yg
+Yg
+Yg
+"}
